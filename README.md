@@ -7,3 +7,4 @@ To do:
 - Include data/table sources in this file (copy from book)
 - Link this readme to data folder
 - Add appendix A table to data
+- Include some sort of codebook/explanation, e.g. regarding columns in raw_sales_data and raw_import_data that these are percentage of total
