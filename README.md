@@ -10,4 +10,4 @@ To do:
 - [ ] Include some sort of codebook/explanation, e.g. regarding columns in raw_sales_data and raw_import_data that these are percentage of total
 - [ ] add what (white) means in two large tables?
 - [ ] add index/glossary for large tables?
-- [ ] add NAs to TSVs
+- [x] add NAs to TSVs
