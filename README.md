@@ -5,7 +5,7 @@ This repo contains raw data used in the book.
 ## To Do
 - [ ] include link to live PDF
 - [x] Include data/table sources in this file (copy from book)
-- [ ] Link this readme to data folder
+- [x] Link this readme to data folder
 - [x] Add appendix A table to data
 - [ ] Include some sort of codebook/explanation, e.g. regarding columns in raw_sales_data and raw_import_data that these are percentage of total
 - [ ] add what (white) means in two large tables?
@@ -13,6 +13,7 @@ This repo contains raw data used in the book.
 - [x] add NAs to TSVs
 
 ## Data and Figures
+All data can be downloaded in one batch in the [all_figures.RData](https://github.com/fabianaiolfi/calicos/blob/main/data/all_figures.RData) or as seperate TSV files from the [data folder](https://github.com/fabianaiolfi/calicos/tree/main/data).  
 Click on data or figure name to view raw data. 
 
 **[Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv)**  
@@ -20,6 +21,7 @@ Indian Textiles Sold in London
 Source: 1631–1664: IO: Home Misc. Series, Vol. 6, fols. 3–354; 1665—1666: ibid., Vol. 7, 127ff.; 1669–1672: ibid., Vol. 8, 275ff.
 
 **[Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv)**  
+Indian Textiles imported to England	
 Source: TBD
 
 **[Figure 1](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_1.tsv)**  
