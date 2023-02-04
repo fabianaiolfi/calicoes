@@ -13,7 +13,9 @@ This repo contains raw data used in the book.
 - [x] add NAs to TSVs
 
 ## Data and Figures
-**Raw Sales Data**  
+Click on data or figure name to view raw data.
+
+**[Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv)**  
 Source: TBD  
 
 **Raw Import Data**  
