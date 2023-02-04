@@ -83,3 +83,20 @@ Textile Imports from India and Printed Cloth in England. The two data series wer
 Source: Ashton, 1959, 142 ff.; Ashton, 1961, 248; See Figure 24.   
 
 ## Data and Figures Bibliography
+Ashton, 1959  
+Ashton, 1961  
+Chaudhuri, 1978  
+Chaudhuri, 1978  
+Chaudhuri, 1978 (“The Grouped List and the Glossary of Indian Textile Types”, see 500 ff.)  
+Chaudhuri, 1978 (“Trading World of Asia”)  
+Davis, 1954  
+Davis, 1962  
+Dean, 1957  
+Fairfield, 1983  
+GhL: PCC, Vol. 5-12  
+IO: Home Misc. Series, Vol. 6, fols. 3–354  
+IO: Home Misc. Series, Vol. 7, 127ff.  
+IO: Home Misc. Series, Vol. 8, 275ff.  
+Irwin, 1966 (“A Glossary of Textile Terms”)  
+PRO  
+Wadsworth, 1931  
