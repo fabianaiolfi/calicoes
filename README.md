@@ -18,7 +18,7 @@ Click on data or figure name to view raw data.
 **[Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv)**  
 Source: TBD  
 
-**Raw Import Data**  
+**[Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv)**  
 Source: TBD
 
 **[Figure 1](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_1.tsv)**  
@@ -57,11 +57,11 @@ Source: Wadsworth, 1931, 138.
 Import of Indian Cotton Textiles, 1700–1759 (Average Quantities)  
 Source: Chaudhuri, 1978, 547f.  
 
-**(Figure 22)[https://github.com/fabianaiolfi/calicos/blob/main/data/figure_22.tsv]**  
+**[Figure 22](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_22.tsv)**  
 Average Number of Indian Textiles Sold in London, 1631–1672 (in Units)  
 Source: To determine the type of textiles the glossaries in the appendices of Irwin, 1966 (“A Glossary of Textile Terms”) and Chaudhuri, 1978 (“The Grouped List and the Glossary of Indian Textile Types”, see 500 ff.) were used.  
 
-**(Figure 23)[https://github.com/fabianaiolfi/calicos/blob/main/data/figure_23.tsv]**  
+**[Figure 23](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_23.tsv)**  
 Indian Textiles Sold in London, 1631–1672  
 Source: 1631–64: IO: Home Misc. Series, Vol 6, fols. 3–354 1665–66: ibid., Vol. 7, 127ff. 1669–72: ibid., vol. 8, 275ff.  
 
