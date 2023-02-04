@@ -24,6 +24,12 @@ Source: 1631–1664: IO: Home Misc. Series, Vol. 6, fols. 3–354; 1665—1666: 
 Indian Textiles imported to England.	[add explanation of columns here]  
 Source: TBD
 
+**[Textile Glossary](example.net)**  
+Description of textiles listed in [Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv) and [Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv).  
+The textiles designated as “white cotton cloth” — in contrast to the other fabrics — were eligible for further processing in the English dyeing or Calico printing works.  
+Source: The reference works used for the compilation of the glossary were: Irwin, 1966, Appendix; Chaudhuri, 1978, Appendix 4.
+
+
 **[Figure 1](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_1.tsv)**  
 Total Textile Imports from India, 1631–1633 (Number of Pieces)  
 Source: Appendix A.  
