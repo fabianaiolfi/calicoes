@@ -16,7 +16,8 @@ This repo contains raw data used in the book.
 Click on data or figure name to view raw data. 
 
 **[Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv)**  
-Source: TBD  
+Indian Textiles Sold in London  
+Source: 1631–1664: IO: Home Misc. Series, Vol. 6, fols. 3–354; 1665—1666: ibid., Vol. 7, 127ff.; 1669–1672: ibid., Vol. 8, 275ff.
 
 **[Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv)**  
 Source: TBD
@@ -73,4 +74,4 @@ Source: The values were calculated on the basis of figures kindly provided by Pr
 Textile Imports from India and Printed Cloth in England. The two data series were indexed, 1713 = 100.  
 Source: Ashton, 1959, 142 ff.; Ashton, 1961, 248; See Figure 24.   
 
-## Data and Graph Bibliography
+## Data and Figures Bibliography
