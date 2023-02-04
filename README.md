@@ -74,7 +74,7 @@ Source: To determine the type of textiles the glossaries in the appendices of Ir
 Indian Textiles Sold in London, 1631–1672  
 Source: 1631–64: IO: Home Misc. Series, Vol. 6, fols. 3–354 1665–66: ibid., Vol. 7, 127ff. 1669–72: ibid., Vol. 8, 275ff.  
 
-**[Figure 24](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_24.tsv)**
+**[Figure 24](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_24.tsv)**  
 Total Textiles Imported from India, 1664–1750 (Annual Averages in Units)  
 Source: The values were calculated on the basis of figures kindly provided by Prof. K.N. Chaudhuri who published parts of this material in his book “Trading World of Asia” (1978, Appendix 5, Statistical Tables; Table C.24).  
 
