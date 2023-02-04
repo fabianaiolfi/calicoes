@@ -17,11 +17,11 @@ All data can be downloaded in one batch in the [all_figures.RData](https://githu
 Click on data or figure name to view raw data. 
 
 **[Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv)**  
-Indian Textiles Sold in London  
+Indian Textiles Sold in London. [add explanation of columns here]  
 Source: 1631–1664: IO: Home Misc. Series, Vol. 6, fols. 3–354; 1665—1666: ibid., Vol. 7, 127ff.; 1669–1672: ibid., Vol. 8, 275ff.
 
 **[Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv)**  
-Indian Textiles imported to England	
+Indian Textiles imported to England.	[add explanation of columns here]  
 Source: TBD
 
 **[Figure 1](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_1.tsv)**  
