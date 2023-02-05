@@ -18,7 +18,7 @@ Click on data or figure name to view raw data.
 
 **[Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv)**  
 Indian Textiles Sold in London. [add explanation of columns here]  
-Source: 1631–1664: IO: Home Misc. Series, Vol. 6, fols. 3–354; 1665—1666: ibid., Vol. 7, 127ff.; 1669–1672: ibid., Vol. 8, 275ff.
+Source: 1631–1664: IO: Home Misc. Series, Vol. 6, fols. 3–354; 1665–1666: ibid., Vol. 7, 127ff.; 1669–1672: ibid., Vol. 8, 275ff.
 
 **[Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv)**  
 Indian Textiles imported to England.	[add explanation of columns here]  
@@ -28,7 +28,6 @@ Source: TBD
 Description of textiles listed in [Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv) and [Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv).  
 The textiles designated as “white cotton cloth” — in contrast to the other fabrics — were eligible for further processing in the English dyeing or Calico printing works.  
 Source: The reference works used for the compilation of the glossary were: Irwin, 1966, Appendix; Chaudhuri, 1978, Appendix 4.
-
 
 **[Figure 1](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_1.tsv)**  
 Total Textile Imports from India, 1631–1633 (Number of Pieces)  
@@ -72,7 +71,7 @@ Source: To determine the type of textiles the glossaries in the appendices of Ir
 
 **[Figure 23](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_23.tsv)**  
 Indian Textiles Sold in London, 1631–1672  
-Source: 1631–64: IO: Home Misc. Series, Vol. 6, fols. 3–354 1665–66: ibid., Vol. 7, 127ff. 1669–72: ibid., Vol. 8, 275ff.  
+Source: 1631–1664: IO: Home Misc. Series, Vol. 6, fols. 3–354 1665–1666: ibid., Vol. 7, 127ff. 1669–1672: ibid., Vol. 8, 275ff.  
 
 **[Figure 24](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_24.tsv)**  
 Total Textiles Imported from India, 1664–1750 (Annual Averages in Units)  
