@@ -13,8 +13,7 @@ This repo contains raw data used in the book.
 - [x] add NAs to TSVs
 
 ## Data and Figures
-All data can be downloaded in one batch in the [all_figures.RData](https://github.com/fabianaiolfi/calicos/blob/main/data/all_figures.RData) or as seperate TSV files from the [data folder](https://github.com/fabianaiolfi/calicos/tree/main/data).  
-Click on data or figure name to view raw data. 
+All data can be downloaded in one batch in the [all_figures.RData](https://github.com/fabianaiolfi/calicos/blob/main/data/all_figures.RData) or as seperate TSV files from the [data folder](https://github.com/fabianaiolfi/calicos/tree/main/data). Click on data or figure name to view raw data. 
 
 **[Figure 1](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_1.tsv)**  
 Total Textile Imports from India, 1631–1633 (Number of Pieces)  
