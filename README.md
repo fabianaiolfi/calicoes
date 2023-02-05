@@ -42,7 +42,7 @@ Source: Calculated based on Ashton, 1961, 248.
 
 **[Figure 14](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_14.tsv)**  
 Processed Wool in England, 1695–1805, including Imports (in Pounds (Lb))  
-Source: Dean, 1957, 220.  
+Source: Deane, 1957, 220.  
 
 **[Figure 20](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_20.tsv)**  
 Printed Textiles, 1713–1719 (in Yards)  
@@ -82,20 +82,26 @@ The textiles designated as “white cotton cloth” — in contrast to the other
 Source: The reference works used for the compilation of the glossary were: Irwin, 1966, Appendix; Chaudhuri, 1978, Appendix 4.
 
 ## Data and Figures Bibliography
-Ashton, 1959  
-Ashton, 1961  
-Chaudhuri, 1978  
-Chaudhuri, 1978  
-Chaudhuri, 1978 (“The Grouped List and the Glossary of Indian Textile Types”, see 500 ff.)  
-Chaudhuri, 1978 (“Trading World of Asia”)  
-Davis, 1954  
-Davis, 1962  
-Dean, 1957  
-Fairfield, 1983  
-GhL: PCC, Vol. 5-12  
-IO: Home Misc. Series, Vol. 6, fols. 3–354  
-IO: Home Misc. Series, Vol. 7, 127ff.  
-IO: Home Misc. Series, Vol. 8, 275ff.  
-Irwin, 1966 (“A Glossary of Textile Terms”)  
-PRO  
-Wadsworth, 1931  
+Ashton, T.S.: Economic Fluctuations in England 1700–1800; Oxford, 1959  
+
+Ashton, T.S.: An Economic History of England. The 18th Century; London, 1961  
+
+Chaudhuri, K.N.: The Trading World of Asia and the English East India Company, 1660–1760; Cambridge, 1978  
+
+Davis, Ralph: English Foreign Trade, 1660–1700; Economic History Review, 2nd Series, Vol. VI; Hoboken (NJ), 1954  
+
+Davis, Ralph: English Foreign Trade, 1700–1774; Economic History Review, 2nd Series, Vol. XV; Hoboken (NJ), 1962  
+
+Deane, Phyllis: The Output of the British Woollen Industry in the 18th Century; Journal of Economic History, Vol XVII, No. 2; Cambridge, 1957  
+
+Fairfield, S.: The Streets of London. A Dictionary of the Names and their Origins; London, 1983  
+
+Gildhall Library (GhL): PCC: Prerogative Court of Canterbury Wills, Vol. 5-12; Publ. by British Record Society, Vols, 43, 44, 54, 61, 71, 72, 77, 80; London, 1912–1960  
+
+India Office (IO): Home Miscellaneous Series, Vols. 6–8  
+
+Irwin, John / Schwartz, P.R.: Studies in Indo-European Textile History; Ahmedabad, 1966  
+
+Public Record Office (PRO): PROB: Probate Records  
+
+Wadsworth, A.P. / Mann, J. de Lacy: The Cotton Trade and Industrial Lancashire, 1600–1780; Manchester, 1931  
