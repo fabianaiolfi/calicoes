@@ -1,19 +1,6 @@
-# Calicos
+# Calicoes: Data and Figures
 
-This repo contains raw data used in the book.
-
-## To Do
-- [ ] include link to live PDF
-- [x] Include data/table sources in this file (copy from book)
-- [x] Link this readme to data folder
-- [x] Add appendix A table to data
-- [x] Include some sort of codebook/explanation, e.g. regarding columns in raw_sales_data and raw_import_data that these are percentage of total
-- [x] add what (white) means in two large tables?
-- [x] add index/glossary for large tables?
-- [x] add NAs to TSVs
-
-## Data and Figures
-All data can be downloaded in one batch in the [all_figures.RData](https://github.com/fabianaiolfi/calicos/blob/main/data/all_figures.RData) or as seperate TSV files from the [data folder](https://github.com/fabianaiolfi/calicos/tree/main/data). Click on data or figure name to view raw data. 
+This repository contains the raw data used in Sergio Aiolfi’s “The Development of English Textile Finishing and the East India Company’s Textile Trade 1650–1750” ([download PDF](example.net)). All data can be downloaded in one batch in the [all_figures.RData](https://github.com/fabianaiolfi/calicos/blob/main/data/all_figures.RData) file or as seperate TSV files from the [data folder](https://github.com/fabianaiolfi/calicos/tree/main/data). Click on data or figure name below to view the raw data. 
 
 **[Figure 1](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_1.tsv)**  
 Total Textile Imports from India, 1631–1633 (Number of Pieces)  
