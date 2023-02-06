@@ -19,7 +19,7 @@ All data can be downloaded in one batch in the [all_figures.RData](https://githu
 Total Textile Imports from India, 1631–1633 (Number of Pieces)  
 Source: [Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv) and [Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv).  
 
-**[Figure 2](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_1.tsv)**  
+**[Figure 2](https://github.com/fabianaiolfi/calicos/blob/main/data/figure_2.tsv)**  
 Total Textile Imports from India, 1680–1689 (Number of Pieces)  
 Source: [Raw Sales Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_sales_data.tsv) and [Raw Import Data](https://github.com/fabianaiolfi/calicos/blob/main/data/raw_import_data.tsv).  
 
