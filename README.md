@@ -1,6 +1,10 @@
 # Calicoes Data
 
-This repository contains the raw data used in Sergio Aiolfi’s “The Development of English Textile Finishing and the East India Company’s Textile Trade 1650–1750” ([download PDF](example.net)). All data can be downloaded in one batch in the [all_figures.RData](https://github.com/fabianaiolfi/calicoes/blob/main/data/all_figures.RData) file or as seperate TSV files from the [data folder](https://github.com/fabianaiolfi/calicoes/tree/main/data). Click on data or figure name below to view the raw data. 
+This repository contains the raw data used in Sergio Aiolfi’s book [“The Development of English Textile Finishing and the East India Company’s Textile Trade 1650–1750”](https://zenodo.org/record/7615643).  
+
+All data can be downloaded in one batch in the [all_figures.RData](https://github.com/fabianaiolfi/calicoes/blob/main/data/all_figures.RData) file or as seperate TSV files from the [data folder](https://github.com/fabianaiolfi/calicoes/tree/main/data). Click on data or figure name below to view the raw data. 
+
+- - -
 
 **[Figure 1](https://github.com/fabianaiolfi/calicoes/blob/main/data/figure_1.tsv)**  
 Total Textile Imports from India, 1631–1633 (Number of Pieces)  
